@@ -1,16 +1,8 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Lato:300,700");
 
-/*
-	Drift by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
-*/
-
-/* Basic */
-
 	body {
-		background: #fff;
+		background: #c2c2c2;
 	}
 
 		body.is-loading * {
@@ -756,8 +748,6 @@
 			table.alt tfoot {
 				border-top: 0;
 			}
-
-/* Button */
 
 	input[type="submit"],
 	input[type="reset"],
