@@ -18,8 +18,9 @@
 			transition: none !important;
 		}
 
-	img.profile {
+	img.tweak {
 		margin-bottom: 25px;
+		margin-top: 25px;
 	}
 
 	body, input, select, textarea {
